@@ -11,7 +11,7 @@ Progress tracking and solutions for the [NeetCode 150](https://neetcode.io/pract
 ---
 
 ## Progress
-- [ ] Arrays & Hashing (0 / 9)
+- [ ] Arrays & Hashing (1 / 9)
 - [ ] Two Pointers (0 / 5)
 - [ ] Sliding Window (0 / 6)
 - [ ] Stack (0 / 7)
