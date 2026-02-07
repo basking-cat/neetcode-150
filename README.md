@@ -3,15 +3,19 @@
 Progress tracking and solutions for the [NeetCode 150](https://neetcode.io/practice) roadmap.
 
 ## Goal
+
 - **Goal:** Master key algorithm patterns and understand time/space complexity.
+
 ## References
-  - [NeetCode.io](https://neetcode.io/)
-  - [LeetCode](https://leetcode.com/)
+
+- [NeetCode.io](https://neetcode.io/)
+- [LeetCode](https://leetcode.com/)
 
 ---
 
 ## Progress
-- [ ] Arrays & Hashing (1 / 9)
+
+- [ ] Arrays & Hashing (3 / 9)
 - [ ] Two Pointers (0 / 5)
 - [ ] Sliding Window (0 / 6)
 - [ ] Stack (0 / 7)
