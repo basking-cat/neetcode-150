@@ -52,6 +52,7 @@ Progress tracking and solutions for the [NeetCode 150](https://neetcode.io/pract
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/basking-cat/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/basking-cat/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/basking-cat/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/basking-cat/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -65,4 +66,8 @@ Progress tracking and solutions for the [NeetCode 150](https://neetcode.io/pract
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/basking-cat/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/basking-cat/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
