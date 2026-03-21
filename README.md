@@ -39,6 +39,7 @@ Progress tracking and solutions for the [NeetCode 150](https://neetcode.io/pract
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/basking-cat/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/basking-cat/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/basking-cat/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/basking-cat/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -49,6 +50,7 @@ Progress tracking and solutions for the [NeetCode 150](https://neetcode.io/pract
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/basking-cat/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/basking-cat/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/basking-cat/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Binary Search
@@ -59,4 +61,8 @@ Progress tracking and solutions for the [NeetCode 150](https://neetcode.io/pract
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/basking-cat/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/basking-cat/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
