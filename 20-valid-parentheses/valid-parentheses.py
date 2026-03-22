@@ -3,6 +3,8 @@ class Solution:
         # use stack and hashmap
         # if the character we're currently looking at is a closing bracket, we look up the hashmap and compare it to stack.pop()
         # if stack is not empty at the end or empty before reading all the characters, the input is not valid
+        if len(s)%2 != 0:
+            return False
 
         stack = []
         hashmap = {')': '(', '}': '{', ']': '['}
@@ -14,8 +16,7 @@ class Solution:
                 if not stack or stack.pop() != hashmap[c]:
                     return False
 
-        if not stack:
-            return True
-        else:
-            return False
+        return not stack
+    # time: O(n)
+    # space: O(n)
         
