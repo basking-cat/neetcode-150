@@ -10,7 +10,7 @@ class Solution:
         for c in s:
             if c not in hashmap: # append open brackets
                 stack.append(c)
-            if c in list(hashmap.keys()):
+            else:
                 if not stack or stack.pop() != hashmap[c]:
                     return False
 
