@@ -1,6 +1,6 @@
-# NeetCode 150
+# LeetCode Solutions
 
-Progress tracking and solutions for the [NeetCode 150](https://neetcode.io/practice) roadmap.
+Progress tracking and solutions for leetcode problems.
 
 ## Goal
 
@@ -15,9 +15,9 @@ Progress tracking and solutions for the [NeetCode 150](https://neetcode.io/pract
 
 ## Progress
 
-- [ ] Arrays & Hashing (6 / 9)
-- [ ] Two Pointers (0 / 5)
-- [ ] Sliding Window (0 / 6)
+- [ ] Arrays & Hashing (7 / 9)
+- [ ] Two Pointers (3 / 5)
+- [ ] Sliding Window (2 / 6)
 - [ ] Stack (0 / 7)
 - [ ] Binary Search (0 / 7)
 - [ ] Linked List (0 / 11)
